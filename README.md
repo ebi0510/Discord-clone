@@ -1,3 +1,6 @@
+【Discordクローン開発】React/Redux/Typescript/Firebaseで作るアプリ開発実践講座
+https://digi-careerup.udemy.com/course/discord-clone-udemy/learn/lecture/36040922#overview
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
